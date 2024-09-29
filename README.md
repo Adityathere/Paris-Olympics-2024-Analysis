@@ -41,12 +41,12 @@ Explore a glimpse of our Power BI dashboard through the following snapshots show
 | Title | Description |
 | --- | --- |
 | **Overview of Medal Distribution** |  ![Overview](assets/Slides/Overview.png) *This page offers an overview of medal distribution across countries and sports disciplines. Users can apply filters by country to see detailed medal tallies and corresponding event statistics..*|
-| **Medal by Athletes** | ![Medal by Athletes](assets/Slides/Medal by Athletes.png)  *Breakdown of athlete performance by country and gender. It provides insights into the number of medals won, gender distribution, and maps showcasing country-specific results.*|
+| **Medal by Athletes** | ![Medal by Athletes](https://github.com/Adityathere/Paris-Olympics-2024-Analysis/blob/main/assets/Slides/Medal%20by%20Athletes.png)  *Breakdown of athlete performance by country and gender. It provides insights into the number of medals won, gender distribution, and maps showcasing country-specific results.*|
 | **Athlete Insights** | ![Athlete Insights](assets/Slides/Athletes.png) *Explore athlete demographics and performance data, including age group analysis, gender distribution, and medal counts categorized by country and discipline.* |
 | **Country-Specific Analysis** | ![Country-Specific Analysis](assets/Slides/Country.png)  *In-depth country analysis, showing total gold, silver, and bronze medals won. Users can filter by country and explore specific performance metrics.*|
 | **Historical Data** | ![Historical Data](assets/Slides/Historical.png) *Review the historical data of previous Olympics, with breakdowns for Summer and Winter Games. The dashboard provides year-wise medal tallies and trends.*|
 | **Sport Discipline Filter** | ![sport_discipline_filter](assets/Slides/Sidebar.png) *A sidebar included on multiple pages (Overview, Medal by Athletes, Athletes, Country) allows users to filter data by specific sports disciplines. This feature enables more targeted analysis of performance in various sports, helping users focus on the disciplines of interest.* |
-| **Model View (ER Diagram)** | ![model_view](assets/Slides/ER Diagram.png) *This visual showcases the data model and relationships between different tables used in the Power BI dashboard. It provides a clear representation of how the dataset's entities are linked, facilitating comprehensive analysis and insights.* |
+| **Model View (ER Diagram)** | ![model_view](https://github.com/Adityathere/Paris-Olympics-2024-Analysis/blob/main/assets/Slides/ER%20Diagram.png) *This visual showcases the data model and relationships between different tables used in the Power BI dashboard. It provides a clear representation of how the dataset's entities are linked, facilitating comprehensive analysis and insights.* |
 
 
 
