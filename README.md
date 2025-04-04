@@ -9,8 +9,7 @@ This project delivers an interactive, data-driven Power BI dashboard that provid
 - Problem Solving
 
 
-## Project Overview
-### Problem Statement
+## Project Overview - Problem Statement
 
 The objective of this project is to create an exhaustive Power BI dashboard that offers deep insights into the 2024 Paris Olympics. Using a structured and visual approach, the dashboard provides analytics on country performances, athlete achievements, historical data, and sport-specific outcomes. This data can support organizations, analysts, and enthusiasts in understanding key metrics from the games and making informed, data-backed decisions.
 
@@ -33,7 +32,10 @@ It also includes historical data on past Olympic Games for comparison, covering:
 These datasets provide the foundation for creating a comprehensive dashboard, allowing users to explore and visualize both current and historical Olympic data.
 
 ---
+### Data Workflow Diagram
+![workflow](assets/Slides/workflow.png)
 
+---
 ### Visuals/Snapshots
 
 Explore a glimpse of our Power BI dashboard through the following snapshots showcasing various analytical perspectives and insights:
@@ -41,7 +43,7 @@ Explore a glimpse of our Power BI dashboard through the following snapshots show
 | Title | Description |
 | --- | --- |
 | **Overview of Medal Distribution** |  ![Overview](assets/Slides/Overview.png) *This page offers an overview of medal distribution across countries and sports disciplines. Users can apply filters by country to see detailed medal tallies and corresponding event statistics..*|
-| **Medal by Athletes** | ![Medal by Athletes](https://github.com/Adityathere/Paris-Olympics-2024-Analysis/blob/main/assets/Slides/Medal%20by%20Athletes.png)  *Breakdown of athlete performance by country and gender. It provides insights into the number of medals won, gender distribution, and maps showcasing country-specific results.*|
+| **Medal by Athletes** | ![Medal by Athletes](assets/Slides/Medal%20by%20Athletes.png)  *Breakdown of athlete performance by country and gender. It provides insights into the number of medals won, gender distribution, and maps showcasing country-specific results.*|
 | **Athlete Insights** | ![Athlete Insights](assets/Slides/Athletes.png) *Explore athlete demographics and performance data, including age group analysis, gender distribution, and medal counts categorized by country and discipline.* |
 | **Country-Specific Analysis** | ![Country-Specific Analysis](assets/Slides/Country.png)  *In-depth country analysis, showing total gold, silver, and bronze medals won. Users can filter by country and explore specific performance metrics.*|
 | **Historical Data** | ![Historical Data](assets/Slides/Historical.png) *Review the historical data of previous Olympics, with breakdowns for Summer and Winter Games. The dashboard provides year-wise medal tallies and trends.*|
